@@ -46,18 +46,19 @@
     "otg"
   ],
   "dependencies": {
-    "mime": "2.2.0",
-    "pdf-text-extract": "1.3.1",
-    "xpath": "0.0.23",
-    "xmldom": "0.1.27",
-    "j": "0.4.3",
     "cheerio": "0.22.0",
-    "marked": "0.3.17",
-    "meow": "3.7.0",
     "got": "5.7.1",
     "html-entities": "1.2.0",
     "iconv-lite": "0.4.15",
+    "j": "0.4.3",
     "jschardet": "1.4.1",
+    "marked": "0.3.17",
+    "meow": "3.7.0",
+    "mime": "2.2.0",
+    "pdf-extract": "^1.0.11",
+    "pdf-text-extract": "1.3.1",
+    "xmldom": "0.1.27",
+    "xpath": "0.0.23",
     "yauzl": "2.7.0"
   },
   "devDependencies": {
